@@ -1,0 +1,10 @@
+﻿dist/
+build/
+__pycache__/
+*.pyc
+*.spec
+*.exe
+*.log
+*.toc
+config.env
+authorized_users.json
